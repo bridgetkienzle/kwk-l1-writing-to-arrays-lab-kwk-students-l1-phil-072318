@@ -23,7 +23,7 @@ def add_colors
   rainbow_colors = [ "red",
 "light_red",
 "light_yellow" ]
-  puts add_colors << "blue", "green"
+  puts add_colors << "blue"
 end
 
 add_colors
