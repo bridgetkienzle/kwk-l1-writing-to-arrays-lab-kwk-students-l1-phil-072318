@@ -25,8 +25,8 @@ def add_colors
   "default",
   "light_cyan"
 ]
-  rainbow_colors.push ("green")
-  rainbow_colors.push ("blue")
+  puts rainbow_colors.push ("green")
+  puts rainbow_colors.push ("blue")
 end
 
 add_colors
